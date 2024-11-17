@@ -1,4 +1,5 @@
-## Hi there 👋
+[SW·AI중심대학추진단] MATLAB과 함께하는 세종 AI 챌린지를 위한 페이지입니다.
+주관학과와 담당자 변경으로 인하여 2024년도부터는 본 페이지에서 정보를 제공합니다.
 
 <!--
 **Sejong-AI-Challenge/Sejong-AI-Challenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
