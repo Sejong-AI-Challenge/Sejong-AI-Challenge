@@ -1,4 +1,5 @@
-<p align="center" style="font-size: 12px; font-weight: bold; margin: 0;">
+<p align ="center">
+<p style="font-size: 14px; font-weight: bold; margin: 0;">
     [SW·AI중심대학추진단] MATLAB과 함께하는 
     <span class="highlight">세종 AI 챌린지</span>를 위한 페이지입니다.
 </p>
@@ -14,6 +15,7 @@
     <li>매틀랩 트랙: <span class="highlight">권나현 조교</span> (<a href="mailto:nhkwon@sju.ac.kr">nhkwon@sju.ac.kr</a>)</li>
     <li>파이썬 트랙: <span class="highlight">김세하 조교</span> (<a href="mailto:23114417@sju.ac.kr">23114417@sju.ac.kr</a>)</li>
 </ul>
+</p>
 
 <!--
 **Sejong-AI-Challenge/Sejong-AI-Challenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
