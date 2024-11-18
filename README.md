@@ -12,7 +12,7 @@
 </p>
 <ul class="contact-list">
     <li>대회 일반사항: <span class="highlight">조예지 조교</span> (<a href="mailto:yezy0390@sju.ac.kr">yezy0390@sju.ac.kr</a>)</li>
-    <li>매틀랩 트랙: <span class="highlight">권나현 조교</span> (<a href="mailto:nhkwon@sju.ac.kr">nhkwon@sju.ac.kr</a>)</li>
+    <li>매틀랩 트랙: <span class="highlight">권나현 조교</span> (<a href="mailto:nhkwon@sju.ac.kr">nhkwon9803@sju.ac.kr</a>)</li>
     <li>파이썬 트랙: <span class="highlight">김세하 조교</span> (<a href="mailto:23114417@sju.ac.kr">23114417@sju.ac.kr</a>)</li>
 </ul>
 </p>
