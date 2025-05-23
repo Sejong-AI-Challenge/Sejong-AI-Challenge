@@ -8,12 +8,10 @@
     기존 대회 정보는 참고하되 해당 페이지 내 연락처로 문의하지 마시고,
 </p>
 <p>
-    모든 문의는 <span class="highlight">소중대사업단</span>(02-6935-2740) 또는 아래 각 담당조교에게 해주시길 바랍니다.
+    모든 문의는 <span class="highlight">소중대사업단</span> (<a href="mailto:sutia7@sejong.ac.kr">sutia7@sejong.ac.kr</a>) 또는 아래 담당조교에게 해주시길 바랍니다.
 </p>
 <ul class="contact-list">
-    <li>대회 일반사항: <span class="highlight">조예지 조교</span> (<a href="mailto:yezy0390@sju.ac.kr">yezy0390@sju.ac.kr</a>)</li>
-    <li>매틀랩 트랙: <span class="highlight">권나현 조교</span> (<a href="mailto:nhkwon@sju.ac.kr">nhkwon9803@sju.ac.kr</a>)</li>
-    <li>파이썬 트랙: <span class="highlight">김세하 조교</span> (<a href="mailto:23114417@sju.ac.kr">23114417@sju.ac.kr</a>)</li>
+    <li>대회 일반사항: <span class="highlight">여예린 조교</span> (<a href="mailto:yerinee0949@sju.ac.kr">yerinee0949@sju.ac.kr</a>)</li>
 </ul>
 </p>
 
