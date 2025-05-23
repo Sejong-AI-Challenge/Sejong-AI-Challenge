@@ -1,6 +1,6 @@
 <p align ="center">
 <p style="font-size: 14px; font-weight: bold; margin: 0;">
-    [SW·AI중심대학추진단] MATLAB과 함께하는 
+    [SW·AI중심대학추진단] 
     <span class="highlight">세종 AI 챌린지</span>를 위한 페이지입니다.
 </p>
 <p>
